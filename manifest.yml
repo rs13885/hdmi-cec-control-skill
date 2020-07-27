@@ -27,3 +27,6 @@
 #   # Require the installation of other skills before installing this skill
 #   skill:
 #     - my-other-skill
+
+python: cec
+apt-get: libcec-dev build-essential python-dev #For Raspberry Pi
